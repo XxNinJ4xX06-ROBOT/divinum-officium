@@ -41,4 +41,4 @@ APK SHA-256: `0a8d904fc2c8bc6fcee75063f4fd272755bb5752445f21b126a3ec5a1d3901ff`.
 
 Original source ZIP SHA-256: `70943cd26e45601924604bbdd5269dca68bdf0fbc7340949c172f8139c9f4cf5`.
 
-The Git repository adds this English presentation and generated screenshots around the original app source snapshot. App implementation and build configuration are unchanged from that snapshot. The release includes the original archive for byte-level comparison.
+The Git repository adds this English presentation and generated screenshots around the original app source snapshot. App implementation and build configuration are unchanged from that snapshot. The evaluation directory includes the original archive for byte-level comparison.

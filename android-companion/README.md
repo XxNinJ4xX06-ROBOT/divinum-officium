@@ -17,7 +17,7 @@ The app obtains liturgical texts from the existing Divinum Officium website over
 
 ## Status and downloads
 
-The Releases section contains the **v0.5.0 prerelease APK**, original source ZIP and SHA-256 checksums. The APK is debug-signed for evaluation and uses package `org.divinumofficium.reader`. The signing key is not in this repository; an independent build will normally have a different certificate.
+The [evaluation directory](evaluation/README.md) contains the **v0.5.0 prerelease APK**, original source ZIP and SHA-256 checksums. The APK is debug-signed for evaluation and uses package `org.divinumofficium.reader`. The signing key is not in this repository; an independent build will normally have a different certificate.
 
 Recorded automated results: **87 Android/JVM tests passing**, Android lint with 0 errors and 33 warnings, plus 17 capture, 49 offline-document and 62 online-reader Chromium checks. These are framework/fixture tests. **No physical Android device or real emulator was available.** Installation, actual website downloads, WebView behavior, notifications and document-provider integration still need device validation. The public server returned HTTP 403 in the development environment; CAPTCHA/TLS protections are not bypassed.
 
