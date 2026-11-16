@@ -1,0 +1,100 @@
+{
+  "source": "https://github.com/DivinumOfficium/divinum-officium",
+  "revision": "d6c806624c9dcff6c715ef2d4abc3c9dee25d412",
+  "office": [
+    {
+      "label": "Tridentine - 1570",
+      "value": "Tridentine - 1570"
+    },
+    {
+      "label": "Tridentine - 1888",
+      "value": "Tridentine - 1888"
+    },
+    {
+      "label": "Tridentine - 1906",
+      "value": "Tridentine - 1906"
+    },
+    {
+      "label": "Divino Afflatu - 1939",
+      "value": "Divino Afflatu - 1939"
+    },
+    {
+      "label": "Divino Afflatu - 1954",
+      "value": "Divino Afflatu - 1954"
+    },
+    {
+      "label": "Reduced - 1955",
+      "value": "Reduced - 1955"
+    },
+    {
+      "label": "Rubrics 1960 - 1960",
+      "value": "Rubrics 1960 - 1960"
+    },
+    {
+      "label": "Rubrics 1960 - 2020 USA",
+      "value": "Rubrics 1960 - 2020 USA"
+    },
+    {
+      "label": "Monastic - 1617",
+      "value": "Monastic Tridentinum 1617"
+    },
+    {
+      "label": "Monastic - 1930",
+      "value": "Monastic Divino 1930"
+    },
+    {
+      "label": "Monastic - 1963",
+      "value": "Monastic - 1963"
+    },
+    {
+      "label": "Monastic - 1963 - Barroux",
+      "value": "Monastic - 1963 - Barroux"
+    },
+    {
+      "label": "Ordo Cisterciensis - 1951",
+      "value": "Monastic Tridentinum Cisterciensis 1951"
+    },
+    {
+      "label": "Ordo Cisterciensis - Abbatia B.M.V. de Altovado",
+      "value": "Monastic Tridentinum Cisterciensis Altovadensis"
+    },
+    {
+      "label": "Ordo Praedicatorum - 1962",
+      "value": "Ordo Praedicatorum - 1962"
+    }
+  ],
+  "mass": [
+    {
+      "label": "Tridentine - 1570",
+      "value": "Tridentine - 1570"
+    },
+    {
+      "label": "Tridentine - 1910",
+      "value": "Tridentine - 1910"
+    },
+    {
+      "label": "Divino Afflatu - 1939",
+      "value": "Divino Afflatu - 1939"
+    },
+    {
+      "label": "Divino Afflatu - 1954",
+      "value": "Divino Afflatu - 1954"
+    },
+    {
+      "label": "Reduced - 1955",
+      "value": "Reduced - 1955"
+    },
+    {
+      "label": "Rubrics 1960 - 1960",
+      "value": "Rubrics 1960 - 1960"
+    },
+    {
+      "label": "1965-1967",
+      "value": "1965-1967"
+    },
+    {
+      "label": "Rubrics 1960 - 2020 USA",
+      "value": "Rubrics 1960 Newcalendar"
+    }
+  ]
+}

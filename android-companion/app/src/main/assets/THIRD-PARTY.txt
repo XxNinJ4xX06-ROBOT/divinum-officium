@@ -1,0 +1,13 @@
+Divinum Leitura — componentes de terceiros
+
+PDFBox-Android 2.0.27.0 — Tom Roush e colaboradores.
+https://github.com/TomRoush/PdfBox-Android
+Licença Apache 2.0. Usado para extrair texto dos PDFs já baixados.
+Inclui código do Apache PDFBox e fontes/tabelas com seus próprios avisos.
+Ver LICENSE-PDFBox.txt e NOTICE-PDFBox.txt, além de LICENSE-Apache-2.0.txt.
+
+Bouncy Castle 1.72 (bcprov, bcpkix, bcutil) — The Legion of the Bouncy Castle Inc.
+Dependências do PDFBox-Android. Licença em LICENSE-BouncyCastle.txt.
+
+As publicações da Biblioteca mantêm as licenças e os créditos das fontes.
+Essas licenças não são substituídas pela licença MIT do aplicativo.

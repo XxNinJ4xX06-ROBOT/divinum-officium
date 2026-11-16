@@ -1,0 +1,11 @@
+{
+  "valid": true,
+  "source": "https://www.divinumofficium.com/cgi-bin/horas/Pofficium.pl?date1=11-16-2026&command=prayLaudes&version=Rubrics+1960+-+1960&lang1=Latin&lang2=Portugues&interlinear=0&expand=tota&votive=Hodie&dioecesis=Generale&priest=0&psalmvar=0&oldhymns=0",
+  "title": "",
+  "textLength": 318,
+  "fragment": "<p class=\"dl-day\">Feria secunda · Officium de feria</p>\n<h2 class=\"dl-notice\">Aviso de rubrica incompleta da fonte</h2>\n<table cellpadding=\"8\" class=\"dl-prayer\"><tbody><tr><td class=\"dl-latin\" lang=\"la\">Deus, in adjutórium meum inténde. Dómine, ad adjuvándum me festína.</td>\n<td class=\"dl-portugues\" lang=\"pt\">Vinde, ó Deus, em meu auxílio. Socorrei-me sem demora. Glória ao Pai e ao Filho e ao Espírito Santo.</td></tr>\n<tr><td class=\"dl-latin\" lang=\"la\">Pater noster, qui es in cælis: sanctificétur nomen tuum.</td><td class=\"dl-portugues\" lang=\"pt\">Pai nosso, que estais nos céus, santificado seja o vosso nome.</td></tr>\n<tr><td colspan=\"2\" class=\"decoration dl-shared\">Rubrica comum às duas línguas. Ilustração da fonte</td></tr></tbody></table>\n<p class=\"dl-notice\"><font color=\"red\">Aviso adicional do servidor</font></p>\n",
+  "css": "\nbody{background:white;color:black}table{width:80%}td{width:50%}\n.decoration{background-image:url(https://example.com/no-offline-image.png)}\n",
+  "bilingual": true,
+  "missingImages": 1,
+  "dayHeading": "Feria secunda · Officium de feria"
+}

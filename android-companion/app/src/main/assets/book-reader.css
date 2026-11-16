@@ -1,0 +1,13 @@
+html, body { background: {{paper}} !important; color: {{ink}} !important; color-scheme: normal; }
+body { max-width: 720px !important; margin: 0 auto !important; padding: 22px 20px 60px !important; font: 18px/1.8 Georgia, serif !important; overflow-wrap: break-word; }
+body * { color: inherit !important; background-color: transparent !important; max-width: 100% !important; }
+body font { font-family: inherit !important; font-size: inherit !important; }
+body p, body div { line-height: 1.8; }
+body a, body a * { color: {{accent}} !important; text-underline-offset: 3px; }
+body h1, body h2, body h3 { line-height: 1.4 !important; color: {{accent}} !important; }
+body img { max-width: 100% !important; height: auto !important; }
+body table, body tbody, body tr, body td { display: block !important; width: auto !important; height: auto !important; }
+body pre { white-space: pre-wrap !important; font-size: .85em; }
+body hr { border: 0; border-top: 1px solid {{line}}; margin: 24px 0; }
+body iframe, body script { display: none !important; }
+body #pg-header { display: none !important; }

@@ -1,0 +1,18 @@
+{"description":"Sugestão de percurso, sem prazos obrigatórios. Idioma e modo de acesso são indicados em cada obra.","items":[
+{"book":"compendio-catecismo","level":"Iniciante","topic":"Doutrina","why":"Comece pela visão geral da fé, dos sacramentos, da moral e da oração."},
+{"book":"lumen-fidei","level":"Iniciante","topic":"Fé e razão","why":"Continue pela natureza da fé e sua relação com a verdade e a vida."},
+{"book":"deus-caritas-est","level":"Iniciante","topic":"Espiritualidade","why":"Aprofunde o sentido cristão do amor e da caridade."},
+{"book":"apologia","level":"Iniciante","topic":"Ética","why":"Leia o exame da vida e a busca da verdade. Edição disponível em inglês."},
+{"book":"aeterni-patris","level":"Intermediário","topic":"Fé e razão","why":"Estude o lugar da filosofia na formação cristã."},
+{"book":"fides-et-ratio","level":"Intermediário","topic":"Fé e razão","why":"Relacione a investigação filosófica à fé e à busca da verdade."},
+{"book":"dei-verbum","level":"Intermediário","topic":"Revelação","why":"Estude a Escritura e a Tradição antes de aprofundar temas teológicos."},
+{"book":"catecismo","level":"Intermediário","topic":"Doutrina","why":"Aprofunde os temas do Compêndio por capítulos. Esta consulta requer internet."},
+{"book":"confissoes","level":"Intermediário","topic":"Espiritualidade","why":"Acompanhe a busca de Deus e a conversão de Santo Agostinho."},
+{"book":"imitacao-cristo","level":"Intermediário","topic":"Espiritualidade","why":"Leitura espiritual complementar, em inglês nesta edição."},
+{"book":"etica-nicomaco","level":"Avançado","topic":"Ética","why":"Aprofunde virtudes, prudência e felicidade. Edição em inglês."},
+{"book":"republica","level":"Avançado","topic":"Ética","why":"Relacione justiça, educação e comunidade. Edição em inglês."},
+{"book":"principios-natureza","level":"Avançado","topic":"Metafísica","why":"Estude matéria, forma, mudança e causalidade. Requer leitura em latim."},
+{"book":"ente-essencia","level":"Avançado","topic":"Metafísica","why":"Aprofunde essência e existência. Requer leitura em latim."},
+{"book":"veritatis-splendor","level":"Avançado","topic":"Ética","why":"Aprofunde liberdade, consciência e fundamentos da teologia moral."},
+{"book":"suma-teologica","level":"Avançado","topic":"Doutrina","why":"Consulte questões e artigos depois dos fundamentos. Requer internet."}
+]}

@@ -1,0 +1,6 @@
+{
+  "name": "divinum-leitura-reader-checks",
+  "private": true,
+  "scripts": { "test:reader": "node tools/check-reader.cjs", "test:daily:capture": "node tools/check-daily.cjs --capture", "test:daily:offline": "node tools/check-daily.cjs --verify" },
+  "devDependencies": { "playwright": "1.62.1" }
+}
